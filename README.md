@@ -119,8 +119,9 @@ Below is a demo of the game in action.
 1. Use **W, A, S, D** or the **arrow keys** to move around your shared suite.
 2. Explore the suite and find your friends.
 3. Approach a friend and press **E** to start a conversation.
-4. Type your message to interact with your friend.
-5. Type switch to chat from your friends perspective.
+4. Type your message in the chatbox to interact with your friend.
+5. Type switch in the chatbox to chat from your friends perspective.
+6. Press quit to return to your shared suite.
 
 Explore, communicate, and experience the world of **Mirror**!
 ## Credits
