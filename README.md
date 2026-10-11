@@ -2,6 +2,13 @@
   <h1>Mirror</h1>
 </div>
 
+<p align="center">
+  <a href="logo.png">
+    <img src="logo.png" width="600" alt="Mirror Logo"/>
+  </a>
+  <br>
+</p>
+
 ## Setup
 - [ ] I would recommend updating to the latest version of Java/OpenJDK. Below is the Java version I have on my laptop 
     - [ ] `openjdk version "21.0.9" 2025-10-21
