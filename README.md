@@ -13,11 +13,10 @@
 Below is a demo of the game in action.
 
 <p align="center">
-  <a href="screenshots/demo.gif">
-    <img src="screenshots/demo.gif" width="600" alt="Yapper Demo"/>
+  <a href="demo.gif">
+    <img src="demo.gif" width="600" alt="Mirror Demo"/>
   </a>
   <br>
-  <small><a href="screenshots/demo.mp4">Click for full video (MP4)</a></small>
 </p>
 
 
