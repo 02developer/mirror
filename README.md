@@ -100,6 +100,29 @@ Below is a demo of the game in action.
     **Note:** Mirror includes its local AI model and tokenizer inside the JAR. You do not need to install Python, Eclipse, or download the model separately.
 
     An internet connection is not required for gameplay once the game and Java are installed.
+
+## Gameplay
+
+
+### Controls
+
+| Key | Action |
+|-----|--------|
+| `W` or `↑` | Move Up |
+| `A` or `←` | Move Left |
+| `S` or `↓` | Move Down |
+| `D` or `→` | Move Right |
+| `E` | Talk to a Friend |
+
+### How to Play
+
+1. Use **W, A, S, D** or the **arrow keys** to move around your shared suite.
+2. Explore the suite and find your friends.
+3. Approach a friend and press **E** to start a conversation.
+4. Type your message to interact with your friend.
+5. Type switch to chat from your friends perspective.
+
+Explore, communicate, and experience the world of **Mirror**!
 ## Credits
 
 **Mirror** was created and developed by:
