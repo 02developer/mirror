@@ -9,6 +9,9 @@
   <br>
 </p>
 
+## Overview
+A 16-bit game that helps you practice having difficult conversations.
+
 ## Demo
 Below is a demo of the game in action.
 
