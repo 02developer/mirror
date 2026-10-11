@@ -100,3 +100,13 @@ Below is a demo of the game in action.
     **Note:** Mirror includes its local AI model and tokenizer inside the JAR. You do not need to install Python, Eclipse, or download the model separately.
 
     An internet connection is not required for gameplay once the game and Java are installed.
+## Credits
+
+**Mirror** was created and developed by:
+
+- Ariana Cota (Project Management, Supported Finetuning Tiny Langauge Model, Testing and Evaluating Game)
+- Madeleinne Tan (Game Artist, Web Development, Supported fine tuning Tiny Language Model, Testing and Evaluating Game)
+- Puneet Kumar Bokka (Web Development, Testing and Evaluating Game, Supported finetuning tiny language model, Fixing Bugs)
+- Ethan Register (Game Development, Pretraining and Finetuning Tiny Language Model, Testing and Evaluating Game, Fixing Bugs)
+
+Thank you to the organizers of Hacks for Humanity and to the wonderful team who contributed to bringing Mirror to life!
